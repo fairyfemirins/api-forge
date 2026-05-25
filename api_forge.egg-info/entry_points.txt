@@ -1,0 +1,2 @@
+[console_scripts]
+api-forge = api_forge.cli:app
