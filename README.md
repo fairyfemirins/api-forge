@@ -9,6 +9,11 @@
 - **Scaffold Python code** for API requests (using `requests`).
 - **Cache the dataset** locally for offline use.
 
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending.
+
+To request a transfer, open an issue in this repository or contact `@femirins` on GitHub.
+
 ## Installation
 ```bash
 pip install api-forge
